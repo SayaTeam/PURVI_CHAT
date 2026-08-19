@@ -45,13 +45,13 @@ async def SonaliChat(_, message: Message):
 
     await app.send_chat_action(chat_id, ChatAction.TYPING)
     reply = SonaliChat_api.ask_question(message.text)
-    await message.reply_text(reply or "❖ ᴄʜᴀᴛʙᴏᴛ ᴇʀʀᴏʀ. ᴄᴏɴᴛᴀᴄᴛ @Purvi_Updates.")
+    await message.reply_text(reply or "❖ ᴄʜᴀᴛʙᴏᴛ ᴇʀʀᴏʀ. ᴄᴏɴᴛᴀᴄᴛ @SHNWAZX.")
 
 @app.on_message(filters.private & filters.text & ~filters.bot & ~filters.regex(r"^[/!]"))
 async def SonaliChat_pm(_, message: Message):
     await app.send_chat_action(message.chat.id, ChatAction.TYPING)
     reply = SonaliChat_api.ask_question(message.text)
-    await message.reply_text(reply or "❖ ᴄʜᴀᴛʙᴏᴛ ᴇʀʀᴏʀ. ᴄᴏɴᴛᴀᴄᴛ @Purvi_Updates.")
+    await message.reply_text(reply or "❖ ᴄʜᴀᴛʙᴏᴛ ᴇʀʀᴏʀ. ᴄᴏɴᴛᴀᴄᴛ @SHNWAZX.")
 
 
 @app.on_message(filters.command("chatbot") & filters.group & ~filters.bot)
