@@ -18,18 +18,18 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = int(getenv("OWNER_ID", None))
 MONGO_URL = getenv("MONGO_URL", None)
 
-API_KEY = getenv("API_KEY", "AIzaSyBZP0V66yZivXCZNGC1V7uloqrjgRTe53w")
+API_KEY = getenv("API_KEY", "AQ.Ab8RN6JwGFjVCwbAhJqIWuqMKCysEiUT8pk4I24bSWqeVrrl0Q")
 # Gen A  Fresh Api Key ( https://aistudio.google.com/app/apikey )
 
-AUTH_CHANNEL = int(getenv("AUTH_CHANNEL", None)) # Fsub Channel Id
+AUTH_CHANNEL = int(getenv("-1004460771158", None)) # Fsub Channel Id
 FSUB = getenv("FSUB", True) # Promote Bot Admin on Your Channel (Fsub Channel Id Channel ) 
 
 OWNER_ID = int(getenv("OWNER_ID", None))
-OWNER = 7473021518
-LOGGER_GROUP_ID = -1003673268434 # Bot Events Logs
+OWNER = 8677818347
+LOGGER_GROUP_ID = -1003951821704 # Bot Events Logs
 
-SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "PURVI_BOTS")
-UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "PURVI_UPDATES")
+SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "SAYAPROJECT")
+UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "SHNWAZX")
 
 
 STICKER = [
