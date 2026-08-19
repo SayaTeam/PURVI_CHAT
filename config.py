@@ -21,7 +21,7 @@ MONGO_URL = getenv("MONGO_URL", None)
 API_KEY = getenv("API_KEY", "AQ.Ab8RN6JwGFjVCwbAhJqIWuqMKCysEiUT8pk4I24bSWqeVrrl0Q")
 # Gen A  Fresh Api Key ( https://aistudio.google.com/app/apikey )
 
-AUTH_CHANNEL = int(getenv("-1004460771158", None)) # Fsub Channel Id
+AUTH_CHANNEL = int(getenv("AUTH_CHANNEL", None)) # Fsub Channel Id
 FSUB = getenv("FSUB", True) # Promote Bot Admin on Your Channel (Fsub Channel Id Channel ) 
 
 OWNER_ID = int(getenv("OWNER_ID", None))
