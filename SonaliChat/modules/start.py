@@ -72,7 +72,7 @@ def get_start_text():
 │✦ ηᴏ ᴧʙᴜsɪηɢ & zєʀσ ᴅσᴡηᴛɪϻє.🍫
 │✦ ᴄʟɪᴄᴋ ʜєʟᴘ ʙᴜᴛᴛση ғσʀ ʜєʟᴘs.❤️‍🔥
 ├────────────────────⦿
-│❖ ϻᴧᴅє ʙʏ...[˹ ᴘᴜʀᴠɪ-ᴍᴜ𝛅𝛊ᴄ™ ˼](t.me/{SUPPORT_GROUP})♡
+│❖ ϻᴧᴅє ʙʏ...[ㅤ- 𝐒𝚮𝚴𝐖𝚨𝚭‎ㅤ](t.me/{SUPPORT_GROUP})♡
 ╰────────────────────⦿**
 """
 
@@ -91,8 +91,8 @@ HELP_ABOUT =f"""
 ─────────────────────────
 ❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [ᴘᴜʀᴠɪ-ʙᴏᴛs](https://t.me/{UPDATES_CHANNEL})
 ❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴘᴜʀᴠɪ-ᴜᴘᴅᴀᴛᴇs](https://t.me/{SUPPORT_GROUP})
-❖ ʙᴏᴛ σᴡηєʀ ➥ [⎯᪵፝֟፝֟⎯꯭𓆩꯭ 𝐀 ꯭ʟ ꯭ᴘ ꯭ʜ꯭ ᴧ꯭⎯꯭꯭‌꯭🥂꯭༎꯭ 𓆪](https://t.me/TheSigmaCoder)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](github.com/TEAMPURVI/PURVI_CHAT)
+❖ ʙᴏᴛ σᴡηєʀ ➥ [ㅤ- 𝐒𝚮𝚴𝐖𝚨𝚭‎ㅤ](https://t.me/SHNWAZX)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](https://github.com/shnwazdeveloper)
 ─────────────────────────**
 """
 
@@ -117,7 +117,7 @@ HELP_READ =f"""
 
 /broadcast message - sᴇɴᴅ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ɢʀᴏᴜᴘs & ᴜsᴇʀs.
 
-✦ 𝐏ᴏᴡᴇʀᴇᴅ вʏ » [ᴀʟᴘʜᴀ-ʙᴀʙʏ](t.me/TheSigmaCoder)**
+✦ 𝐏ᴏᴡᴇʀᴇᴅ вʏ » [ㅤ- 𝐒𝚮𝚴𝐖𝚨𝚭‎ㅤ](t.me/SHNWAZX)**
 """
 
 
