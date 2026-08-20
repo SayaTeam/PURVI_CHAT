@@ -13,7 +13,7 @@
       "url": "heroku/python"
     }
   ],
-  "repository": "https://github.com/TEAMPURVI/PURVI_CHAT",
+  "repository": "https://github.com/SayaTeam/PURVI_CHAT",
   "env": {
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps.",
