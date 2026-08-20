@@ -13,13 +13,6 @@ class ChatGptEs:
     def __init__(self, api_key: str):
         self.client = genai.Client(api_key=api_key)
         self.error_messages = [
-            "Bad me bat karti hu 😘",
-            "Disconnect ho gyi yarr 😢",
-            "Thoda ruko please 🥺",
-            "Signal chala gaya 📶",
-            "Abhi busy hu 💕",
-            "Phir se aao na 😊",
-            "Error aa gaya 😅",
             "Mann nahi hai abhi 😔",
             "Thoda wait karo ⏳",
             "Kal baat karte hain 🌙",
