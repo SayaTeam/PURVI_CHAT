@@ -1,9 +1,9 @@
 # =======================================================
-# ©️ 2026-27 All Rights Reserved by Purvi Bots (TEAMPURVI) 🚀
+# ©️ 2026-27 All Rights Reserved by Saya (SAYAPROJECT) 🚀
 
 # This source code is under MIT License 📜 Unauthorized forking, importing, or using this code without giving proper credit will result in legal action ⚠️
  
-# 📩 DM for permission : @TheSigmaCoder
+# 📩 DM for permission : @SHNWAZX
 # =======================================================
 
 from . import chatbot_settings_db, chatsdb
@@ -27,9 +27,8 @@ async def get_enabled_chats() -> list:
     return [c["chat_id"] for c in all_chats if c["chat_id"] not in disabled_ids]
 
 # ======================================================
-# ©️ 2026-27 All Rights Reserved by Purvi Bots (TEAMPURVI) 😎
+# ©️ 2026-27 All Rights Reserved by Saya (SAYAPROJECT) 😎
 
-# 🧑‍💻 Developer : t.me/TheSigmaCoder
-# 🔗 Source link : GitHub.com/TEAMPURVI/PURVI_CHAT
-# 📢 Telegram channel : t.me/Purvi_Bots
+# 🧑‍💻 Developer : t.me/SHNWAZX
+# 📢 Telegram channel : t.me/SayaProject
 # =======================================================
