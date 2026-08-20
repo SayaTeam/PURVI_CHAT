@@ -1,0 +1,12 @@
+# Ignore non-code files for contribution stats
+*.md linguist-generated=true
+*.txt linguist-generated=true
+*.yaml linguist-generated=true
+*.yml linguist-generated=true
+Dockerfile linguist-generated=true
+Procfile linguist-generated=true
+.env* linguist-vendored=true
+.gitignore linguist-vendored=true
+
+# Force only .py files to count as primary language
+*.py linguist-documentation=false

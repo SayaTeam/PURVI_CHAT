@@ -16,8 +16,6 @@ API_KEY = getenv("API_KEY", "AQ.Ab8RN6JwGFjVCwbAhJqIWuqMKCysEiUT8pk4I24bSWqeVrrl
 AUTH_CHANNEL = int(getenv("AUTH_CHANNEL", None)) # Fsub Channel Id
 FSUB = getenv("FSUB", True) # Promote Bot Admin on Your Channel (Fsub Channel Id Channel ) 
 
-OWNER_ID = int(getenv("OWNER_ID", None))
-OWNER = 8677818347
 LOGGER_GROUP_ID = -1003951821704 # Bot Events Logs
 
 SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "SAYAPROJECT")
