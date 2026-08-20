@@ -1,11 +1,3 @@
-# =======================================================
-# ©️ 2026-27 All Rights Reserved by Purvi Bots (TEAMPURVI) 🚀
-
-# This source code is under MIT License 📜 Unauthorized forking, importing, or using this code without giving proper credit will result in legal action ⚠️
- 
-# 📩 DM for permission : @TheSigmaCoder
-# =======================================================
-
 import asyncio
 from pyrogram import filters
 from pyrogram.errors import FloodWait
@@ -60,11 +52,3 @@ async def broadcast_(_, message: Message):
         f"⚘ ᴜsᴇʀs : {sent_users}\n"
         f"⚘ ғᴀɪʟᴇᴅ : {failed}"
     )
-
-# ======================================================
-# ©️ 2026-27 All Rights Reserved by Purvi Bots (TEAMPURVI) 😎
-
-# 🧑‍💻 Developer : t.me/TheSigmaCoder
-# 🔗 Source link : GitHub.com/TEAMPURVI/PURVI_CHAT
-# 📢 Telegram channel : t.me/Purvi_Bots
-# =======================================================
