@@ -1,4 +1,12 @@
-```
-# Git attributes
-.gitattributes
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+.env.local
+*.env.*
 ```
