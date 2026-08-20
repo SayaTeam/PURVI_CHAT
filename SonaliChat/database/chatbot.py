@@ -1,11 +1,3 @@
-# =======================================================
-# ©️ 2026-27 All Rights Reserved by Saya (SAYAPROJECT) 🚀
-
-# This source code is under MIT License 📜 Unauthorized forking, importing, or using this code without giving proper credit will result in legal action ⚠️
- 
-# 📩 DM for permission : @SHNWAZX
-# =======================================================
-
 from . import chatbot_settings_db, chatsdb
 
 
@@ -25,10 +17,3 @@ async def get_enabled_chats() -> list:
     disabled_ids = {d["chat_id"] for d in disabled}
     all_chats = await chatsdb.find({}, {"chat_id": 1, "_id": 0}).to_list(length=None)
     return [c["chat_id"] for c in all_chats if c["chat_id"] not in disabled_ids]
-
-# ======================================================
-# ©️ 2026-27 All Rights Reserved by Saya (SAYAPROJECT) 😎
-
-# 🧑‍💻 Developer : t.me/SHNWAZX
-# 📢 Telegram channel : t.me/SayaProject
-# =======================================================
