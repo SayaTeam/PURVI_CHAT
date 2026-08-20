@@ -22,7 +22,7 @@ def get_stbutton():
       [
         InlineKeyboardButton(
           text="⌯ ❍ᴡɴᴇʀ ⌯",
-          user_id=OWNER_ID,
+          url=f"tg://user?id={OWNER_ID}",
         ),
           InlineKeyboardButton(
           text="⌯ ᴧʙσᴜᴛ ⌯",
