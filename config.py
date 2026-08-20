@@ -10,8 +10,12 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 OWNER_ID = int(getenv("OWNER_ID", None))
 MONGO_URL = getenv("MONGO_URL", None)
 
-API_KEY = getenv("API_KEY", "AQ.Ab8RN6JwGFjVCwbAhJqIWuqMKCysEiUT8pk4I24bSWqeVrrl0Q")
-# Gen A  Fresh Api Key ( https://aistudio.google.com/app/apikey )
+API_KEY = getenv("API_KEY", None)
+# Get a Fresh Api Key from https://aistudio.google.com/app/apikey
+# Then set it as environment variable API_KEY
+
+if not API_KEY:
+    raise ValueError("API_KEY environment variable is not set. Get a fresh key from https://aistudio.google.com/app/apikey")
 
 AUTH_CHANNEL = int(getenv("AUTH_CHANNEL", None)) # Fsub Channel Id
 FSUB = getenv("FSUB", True) # Promote Bot Admin on Your Channel (Fsub Channel Id Channel ) 
