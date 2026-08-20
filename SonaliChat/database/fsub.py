@@ -1,11 +1,3 @@
-# =======================================================
-# ©️ 2026-27 All Rights Reserved by Purvi Bots (SAYAPROJECT) 🚀
-
-# This source code is under MIT License 📜 Unauthorized forking, importing, or using this code without giving proper credit will result in legal action ⚠️
- 
-# 📩 DM for permission : @SHNWAZX
-# =======================================================
-
 from pyrogram.errors import UserNotParticipant
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from config import AUTH_CHANNEL, IMG
@@ -30,10 +22,3 @@ async def get_fsub(bot, message):
         return False
     else:
         return True
-
-# ======================================================
-# ©️ 2026-27 All Rights Reserved by Purvi Bots (SAYAPROJECT) 😎
-
-# 🧑‍💻 Developer : t.me/SHNWAZX
-# 📢 Telegram channel : t.me/SayaProject
-# =======================================================

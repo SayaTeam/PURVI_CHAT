@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: SonaliChat
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m SonaliChat.__main__
+    envVars:
+      - key: PORT
+        value: 8000
+      - key: API_ID
+        sync: false
+      - key: API_HASH
+        sync: false
+      - key: BOT_TOKEN
+        sync: false
+      - key: MONGO_URI
+        sync: false
+      - key: AUTH_CHANNEL
+        sync: false
+      - key: OWNER_ID
+        sync: false
