@@ -9,15 +9,8 @@
 
 <h1 align="center">─「 ©️ ʟɪᴄᴇɴsᴇ ɴᴏᴛᴇ 」─</h1>
 
-<p>©️ 2025-26 ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ ʙʏ <strong>ᴘᴜʀᴠɪ ʙᴏᴛs (<a href="https://github.com/TEAMPURVI">TEAMPURVI</a>)</strong> 🚀</p>
+<p>©️ 2025-26 ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ ʙʏ 
 
-<p>• ᴛʜɪs <a href="https://github.com/TEAMPURVI/PURVI_CHAT">sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ</a> ɪs ʀᴇʟᴇᴀsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ <strong><a href="https://github.com/TEAMPURVI/PURVI_CHAT/blob/main/LICENSE">MIT LICENSE</a></strong> 📜</p>
 
 <p>• ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ғᴏʀᴋɪɴɢ, ɪᴍᴘᴏʀᴛɪɴɢ, ᴏʀ ᴜsɪɴɢ ᴛʜɪs ᴄᴏᴅᴇ ᴡɪᴛʜᴏᴜᴛ ᴘʀᴏᴘᴇʀ ᴄʀᴇᴅɪᴛ ᴡɪʟʟ ʀᴇsᴜʟᴛ ɪɴ ʟᴇɢᴀʟ ᴀᴄᴛɪᴏɴ ⚠️.</p>
 
-
-<p align="center"><a href="https://t.me/purvi_updates"><img src="https://img.shields.io/badge/SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a> <a href="https://t.me/purvi_bots"><img src="https://img.shields.io/badge/SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-
-<p align="center">  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>  
-</p>
